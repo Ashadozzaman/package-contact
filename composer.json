@@ -1,0 +1,19 @@
+{
+    "name": "ashadozzaman/contact",
+    "description": "this is my first package for test, using this send email and save data in database",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Ashadozzaman\\Contact\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ashadozzaman",
+            "email": "shovoua@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
