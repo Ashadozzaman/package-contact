@@ -18,7 +18,7 @@
 
 <body>
     <div class="container">
-        <h1>Contact us Any Time</h1>
+        <h1>Contact us Any times</h1>
         <div class="row">
             <form action="{{route('contact')}}" method="POST">
                 @csrf
